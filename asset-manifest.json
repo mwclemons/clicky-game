@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/clicky-game/static/css/main.94485ce0.chunk.css",
+    "main.js": "/clicky-game/static/js/main.8cb3dfa3.chunk.js",
+    "main.js.map": "/clicky-game/static/js/main.8cb3dfa3.chunk.js.map",
+    "runtime~main.js": "/clicky-game/static/js/runtime~main.27874bd3.js",
+    "runtime~main.js.map": "/clicky-game/static/js/runtime~main.27874bd3.js.map",
+    "static/js/2.501d70a8.chunk.js": "/clicky-game/static/js/2.501d70a8.chunk.js",
+    "static/js/2.501d70a8.chunk.js.map": "/clicky-game/static/js/2.501d70a8.chunk.js.map",
+    "index.html": "/clicky-game/index.html",
+    "precache-manifest.c8335b21da5c13ce28918e24f22e4f59.js": "/clicky-game/precache-manifest.c8335b21da5c13ce28918e24f22e4f59.js",
+    "service-worker.js": "/clicky-game/service-worker.js",
+    "static/css/main.94485ce0.chunk.css.map": "/clicky-game/static/css/main.94485ce0.chunk.css.map",
+    "static/media/dirk.jpg": "/clicky-game/static/media/dirk.4eaccf1b.jpg",
+    "static/media/giannis.jpg": "/clicky-game/static/media/giannis.22a7d7f2.jpg",
+    "static/media/kemp.jpg": "/clicky-game/static/media/kemp.2daca3a2.jpg",
+    "static/media/kobe.jpg": "/clicky-game/static/media/kobe.0f61692d.jpg",
+    "static/media/lebron.jpg": "/clicky-game/static/media/lebron.07b56122.jpg"
+  }
+}
